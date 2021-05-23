@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-02T03:44:06.917Z</updated>
+  <updated>2021-05-23T13:10:17.784Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我想写一首诗</title>
+    <link href="http://example.com/2021/05/23/%E6%88%91%E6%83%B3%E5%86%99%E4%B8%80%E9%A6%96%E8%AF%97/"/>
+    <id>http://example.com/2021/05/23/%E6%88%91%E6%83%B3%E5%86%99%E4%B8%80%E9%A6%96%E8%AF%97/</id>
+    <published>2021-05-23T12:50:23.000Z</published>
+    <updated>2021-05-23T13:10:17.784Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我想写一首诗"><a href="#我想写一首诗" class="headerlink" title="我想写一首诗"></a>我想写一首诗</h1><center>我想写一首诗</center><center>不知从何开始</center><center>平静又涌动的情绪</center><center>和无法匹配的适配器</center><center>突然，想起了歌德和他思春的少女</center><center>大脑是分布式的计算机？</center><center>那就到这儿吧</center><center>姑且就是一首诗吧</center><center>献给这个没有诗歌的时代</center>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;我想写一首诗&quot;&gt;&lt;a href=&quot;#我想写一首诗&quot; class=&quot;headerlink&quot; title=&quot;我想写一首诗&quot;&gt;&lt;/a&gt;我想写一首诗&lt;/h1&gt;&lt;center&gt;我想写一首诗&lt;/center&gt;
+
+&lt;center&gt;不知从何开始&lt;/center&gt;
+
+&lt;center</summary>
+      
+    
+    
+    
+    <category term="子非鱼" scheme="http://example.com/categories/%E5%AD%90%E9%9D%9E%E9%B1%BC/"/>
+    
+    
+    <category term="我想写一首诗" scheme="http://example.com/tags/%E6%88%91%E6%83%B3%E5%86%99%E4%B8%80%E9%A6%96%E8%AF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>碎叶拾取</title>
