@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-10T01:21:36.981Z</updated>
+  <updated>2022-05-29T02:59:21.182Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>喜欢的两种语言</title>
+    <link href="http://example.com/2022/05/29/%E5%96%9C%E6%AC%A2%E7%9A%84%E4%B8%A4%E7%A7%8D%E8%AF%AD%E8%A8%80/"/>
+    <id>http://example.com/2022/05/29/%E5%96%9C%E6%AC%A2%E7%9A%84%E4%B8%A4%E7%A7%8D%E8%AF%AD%E8%A8%80/</id>
+    <published>2022-05-29T02:45:13.000Z</published>
+    <updated>2022-05-29T02:59:21.182Z</updated>
+    
+    <content type="html"><![CDATA[<p>【法语】Je bois le sourire de ta bouche muette.</p><p>【中文】我在你无言的嘴上痛饮醉人的笑容。</p><p>【英文】And only herald to the gaudy spring.</p><p>【中文】你是艳丽春天的唯一使者。</p><p>【日文】吹くからに/秋の草木の/しをるれば /むべ山锾を/あらしというらむ.</p><p>【中文】一过秋之草木枯, 是以山风乃称岚。</p><p>【英文】Later, respectively, wander and suffer sorrow. </p><p>【中文】从此，各自飘零，各自悲哀。</p><p>【英文】 O ever youthful，O ever weeping.</p><p>【中文】永远年轻，永远热泪盈眶。</p><p>【英文】 I always miss him.（miss 有错过；想念之意）</p><p>【中文】相见总无言，别后常忆君。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;【法语】Je bois le sourire de ta bouche muette.&lt;/p&gt;
+&lt;p&gt;【中文】我在你无言的嘴上痛饮醉人的笑容。&lt;/p&gt;
+&lt;p&gt;【英文】And only herald to the gaudy spring.&lt;/p&gt;
+&lt;p&gt;【中文】你是艳丽春天</summary>
+      
+    
+    
+    
+    <category term="诗歌" scheme="http://example.com/categories/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+    <category term="摘抄" scheme="http://example.com/tags/%E6%91%98%E6%8A%84/"/>
+    
+  </entry>
   
   <entry>
     <title>世界上并不存在的诗歌</title>
